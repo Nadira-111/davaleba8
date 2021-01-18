@@ -1,0 +1,45 @@
+.h3{
+	font-size: 40px;
+	color: #A80E0E;
+	display: flex;
+	justify-content: center;
+    margin-top: 145px;
+}
+.h5{
+	font-size: 20px;
+	color: #382E36;
+	display: flex;
+	justify-content: center;
+	margin-top: 62px;
+	margin-bottom: 126px;
+
+}
+.conteiner{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+.image{
+	width: 670px;
+	height: 636px;
+	margin-left: 
+
+}
+.image-logo{
+	width: 46.53px;
+	height: 84px;
+	margin-left: 235px;
+	margin-right: 70px;
+	
+}
+
+.par1{
+    width:  710px;
+    height: 158px;
+    font-size: 20px;
+    color: #382E36;
+    margin-top: 55px;
+    
+
+}
