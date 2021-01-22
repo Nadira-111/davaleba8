@@ -1,3 +1,68 @@
+.burger-page{
+	background-image: url('../image/img1.jpg');
+	height: 852px;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.burger-wraper{
+	display: flex;
+	align-items: ;
+}
+
+.title-burger{
+	margin-left: 235px;
+	padding-top: 257px; 
+	color:#FFFFFF;
+}
+.day{
+	font-size: 47px;
+	color: #FFFFFF;
+	background-color:#FFAA00; 
+	display: flex;
+	margin-right: 15px;
+	height: 85px;
+	width: 85px;
+	justify-content: center;
+	align-items: center;
+
+}
+.Happy{
+	font-size: 35px;
+	color: #FFFFFF;
+	margin-bottom: 24px;
+
+}
+.pizzas{
+	margin-bottom: 27.5px;
+	margin-top: 10.5px;
+}
+.burger-date{
+	font-size: 15px;
+    display: flex;
+
+}
+.date1{
+	margin-top: 5px;
+	margin-right: 58px;
+	margin-left: 20px;
+
+}
+.date2{
+	margin-top: 5px;
+	margin-right: 60px;
+	margin-left: 20px;
+	
+}
+.date3{
+	margin-top: 5px;
+	margin-right: 75px;
+	margin-left: 10px;
+	
+}
+.data4{
+	margin-top: 10px;
+}
 .h3{
 	font-size: 40px;
 	color: #A80E0E;
